@@ -25,7 +25,7 @@ def save(ver, var, defi):
 if config["0"]["active"] == False:
 
     lunch()
-    save("0", "version", "0.1.2")
+    save("0", "version", "0.1.0")
 
     print("Initialisation terminer de Main.py")
 else:
